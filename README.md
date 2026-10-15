@@ -1,5 +1,5 @@
-# rhino-pcb
-PCB Making tools for Rhino3D
+# Rhino-PCB
+PCB tracing tools for Rhino3D
 
 
 How to create tracing tool:
